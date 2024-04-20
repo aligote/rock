@@ -1,1 +1,0 @@
-console.log('test/index git ignore dddddddddddddd')
